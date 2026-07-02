@@ -1,4 +1,4 @@
-name: Test Reproducibility
+name: Test Reproducibility Self-Hosted
 run-name: ${{ inputs.issue_branch }}
 
 on:
