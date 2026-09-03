@@ -1,0 +1,7 @@
+channels:
+  - gimli
+  - conda-forge
+
+dependencies:
+  - python=3.13.8
+  - pygimli=1.6.0
