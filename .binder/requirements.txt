@@ -1,0 +1,10 @@
+pygimli==1.6.1
+pgcore==1.6.0
+numpy==2.5.4
+matplotlib==3.11.2
+scipy==1.17.1
+tqdm==4.70.1
+IPython==9.18.1
+meshio==5.3.5
+tetgen==0.8.4
+pyvista==0.49.2
